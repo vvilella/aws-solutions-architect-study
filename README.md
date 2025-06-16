@@ -1,36 +1,55 @@
 # AWS Solutions Architect – Associate (SAA-C03)
 
-Este repositório documenta meu passo a passo de preparação para a certificação AWS SAA-C03. Aqui você encontrará:
+📌 Repositório da minha jornada de estudos para a certificação AWS SAA-C03.  
+Aqui você vai encontrar:
 
-- 📚 Resumos por tema
-- ⚙️ Exemplos práticos e labs
-- 🧠 Dicas de prova e simulados
-- ✅ Anotações pessoais sobre o que funcionou (ou não)
-
-## 🎯 Objetivo
-
-Passar na certificação AWS Certified Solutions Architect – Associate com base sólida e aplicável em projetos reais.
-
-## 🗺️ Roteiro de estudos
-
-1. Fundamentos e visão geral da AWS
-2. Serviços de Compute (EC2, Lambda, etc.)
-3. Redes e VPC
-4. Armazenamento
-5. Banco de Dados
-6. Segurança e IAM
-7. Alta disponibilidade e escalabilidade
-8. Monitoramento e precificação
-9. Laboratórios práticos
-10. Simulados e revisão final
-
-## 🔗 Recursos úteis
-
-- [AWS Skill Builder](https://explore.skillbuilder.aws/)
-- [FreeCodeCamp curso completo](https://www.youtube.com/watch?v=Ia-UEYYR44s)
-- [Whitepapers AWS](https://aws.amazon.com/whitepapers/)
-- [Repositórios open-source úteis](#) (em breve)
+- ✅ Resumos temáticos e anotações em Markdown
+- ⚙️ Laboratórios práticos com passo a passo
+- 🧠 Estratégias de prova e links para simulados
+- 📌 Checklist final para revisão e prova
 
 ---
 
-> _“A melhor maneira de aprender é explicando.”_ — por isso este repositório existe.
+## 📚 Plano de Estudos
+
+| Tema                   | Status     |
+|------------------------|------------|
+| Fundamentos AWS        | ✅ Em andamento |
+| Compute (EC2, Lambda)  | ⬜️ |
+| Networking (VPC, DNS)  | ⬜️ |
+| Storage (S3, EBS, EFS) | ⬜️ |
+| Databases              | ⬜️ |
+| IAM e Segurança        | ⬜️ |
+| Alta Disponibilidade   | ⬜️ |
+| Monitoramento e Custos | ⬜️ |
+| Labs e Simulados       | ⬜️ |
+
+---
+
+## 🎯 Meta
+
+**Tirar a certificação até [colocar data alvo]**, com base prática forte e material reaproveitável por outras pessoas.
+
+---
+
+## 🧠 Estratégia
+
+- Estudo guiado por domínio (compute, storage, etc.)
+- Labs práticos usando console e linha de comando
+- Revisão via simulados e flashcards
+- Registro dos erros recorrentes (arquivo `simulados-e-erros.md`)
+- Produção de conteúdo futuro para rede técnica
+
+---
+
+## 🔗 Links úteis
+
+- [AWS Official Certification Guide](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+- [Whitepapers AWS](https://aws.amazon.com/whitepapers/)
+- [AWS Skill Builder](https://explore.skillbuilder.aws/)
+- [FreeCodeCamp - Curso Completo (vídeo)](https://www.youtube.com/watch?v=Ia-UEYYR44s)
+
+---
+
+> _“Documentar é aprender duas vezes.”_  
+> — Victor Nardi Vilella
